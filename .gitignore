@@ -1,2 +1,5 @@
 # Ignorar arquivos de dados locais (CSV)
 *.csv
+
+# Ignorar o database (db)
+*.db
